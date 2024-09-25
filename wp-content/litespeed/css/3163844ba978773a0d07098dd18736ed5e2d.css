@@ -91176,15 +91176,14 @@ blockquote:before {
     animation-delay: -2s;
     -webkit-animation-duration: 7s;
     animation-duration: 7s;
-    fill: rgba(255, 255, 255, .7)
+    fill: rgba(28, 28, 28, .7)
 }
-
 .svg-waves use:nth-child(2) {
     -webkit-animation-delay: -3s;
     animation-delay: -3s;
     -webkit-animation-duration: 10s;
     animation-duration: 10s;
-    fill: rgba(255, 255, 255, .5)
+    fill: rgba(28, 28, 28, .5)
 }
 
 .svg-waves use:nth-child(3) {
@@ -91192,7 +91191,7 @@ blockquote:before {
     animation-delay: -4s;
     -webkit-animation-duration: 13s;
     animation-duration: 13s;
-    fill: rgba(255, 255, 255, .3)
+    fill: rgba(28, 28, 28, .3)
 }
 
 .svg-waves use:nth-child(4) {
@@ -91200,7 +91199,7 @@ blockquote:before {
     animation-delay: -5s;
     -webkit-animation-duration: 20s;
     animation-duration: 20s;
-    fill: #fff
+    fill: #1C1C1C
 }
 
 @-webkit-keyframes move-forever {
@@ -122933,7 +122932,7 @@ body.wc-block-product-gallery-modal-open {
 
 .elementor-1569 .elementor-element.elementor-element-fdbc45a:not(.elementor-motion-effects-element-type-background),
 .elementor-1569 .elementor-element.elementor-element-fdbc45a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: var(--e-global-color-text)
+    background-color: #000000
 }
 
 .elementor-1569 .elementor-element.elementor-element-fdbc45a {
